@@ -1,3 +1,3 @@
 # Mall_Project
 Through the use of python I completed a Bivariate and Univarite analysis.
-Also used clustering to 
+Also used clustering to pinpoint the mount groups their are between the spending and Income categories.
